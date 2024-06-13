@@ -7,7 +7,11 @@ const register = (username) => {
 };
 
 const login = (username) => {
-  return true;
+  if (username === "ADMIN") {
+    return true;
+  } else {
+    return false;
+  }
 };
 
 const test = () => {
