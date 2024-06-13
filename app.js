@@ -5,3 +5,7 @@ const register = (username) => {
     return false;
   }
 };
+
+const login = (username) => {
+  return true;
+};
