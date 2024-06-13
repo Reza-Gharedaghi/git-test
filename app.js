@@ -9,3 +9,7 @@ const register = (username) => {
 const login = (username) => {
   return true;
 };
+
+const test = () => {
+  return true;
+};
