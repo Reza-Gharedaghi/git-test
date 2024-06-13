@@ -1,3 +1,7 @@
 const register = (username) => {
-  return true;
+  if (username === "Reza" || username === "Erfan") {
+    return true;
+  } else {
+    return false;
+  }
 };
