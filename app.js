@@ -18,10 +18,6 @@ const getMe = () => {
   return true;
 };
 
-const test = () => {
-  return true;
-};
-
 const setBox = () => {
   return true;
 };
