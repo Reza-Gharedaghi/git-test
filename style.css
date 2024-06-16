@@ -5,3 +5,9 @@
 .login-form {
   text-align: 15px;
 }
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

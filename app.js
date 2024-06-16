@@ -21,3 +21,7 @@ const getMe = () => {
 const test = () => {
   return true;
 };
+
+const setBox = () => {
+  return true;
+};
