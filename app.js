@@ -14,6 +14,10 @@ const login = (username) => {
   }
 };
 
+const getMe = () => {
+  return true;
+};
+
 const test = () => {
   return true;
 };
